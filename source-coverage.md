@@ -1,6 +1,6 @@
 # Source coverage audit
 
-All 37 source pages were text-extracted, rendered, and visually inspected. The website contains no source scans or artwork. “Practice ID” refers to the cards generated from `QUESTIONS` in `data.js`; all also feed Memory Mode and the Final Challenge.
+All 37 source pages were text-extracted, rendered, and visually inspected. The website contains no source scans or artwork. “Practice ID” refers to the cards generated from `QUESTIONS` in `data.js`; all are available in topic practice and the mixed final test.
 
 ## Connect Ratios, Rates, and Proportions.pdf (32 pages)
 
@@ -20,11 +20,11 @@ All 37 source pages were text-extracted, rendered, and visually inspected. The w
 | 12 | Aquarium: 35 g/kg, 75,000 cm³ | Practice W8; Proportion Lab |
 | 13 | Ask for ratio reasoning | W8 teaching flow |
 | 14 | Water:salt relationship stays constant | Lessons 4, 9-10; W8 feedback |
-| 15 | Ratio table 35 g/1 kg to 75 kg | Lesson 10; Proportion Lab |
-| 16 | Multiply table by 75 | Proportion Lab animated result |
-| 17 | Explain equivalent columns | Lesson 10 memory trick and lab feedback |
+| 15 | Ratio table 35 g/1 kg to 75 kg | Ratio Tables lesson and practice W8 |
+| 16 | Multiply table by 75 | Ratio Tables lesson and guided working |
+| 17 | Explain equivalent columns | Ratio Tables lesson and check questions |
 | 18 | Proportion equation definition | Lesson 9 |
-| 19 | Solve `35/1=x/75` | Proportion Lab |
+| 19 | Solve `35/1=x/75` | Solving Proportions lesson and practice W8 |
 | 20 | Connection to prior scaling | Lessons 10-12 |
 | 21 | Aquarium answer 2,625 g | Practice W8 answer and full working |
 | 22a | Unknown in proportion vs equivalent ratios | Lessons 10-12 check for understanding |
@@ -77,6 +77,6 @@ All 37 source pages were text-extracted, rendered, and visually inspected. The w
 
 ## Count
 
-- Guided lesson steps: **19**
+- Focused lesson sections: **14**
 - Source-based practice items: **54**
 - Source pages audited: **37/37**
